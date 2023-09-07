@@ -6,3 +6,5 @@
 REPORT ZTEST_PROG.
 
 WRITE: 'Hello world!'.
+
+Write: 'New stuff'.
